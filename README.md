@@ -166,6 +166,8 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [TorchXRayVision](https://github.com/mlmed/torchxrayvision) - A library for chest X-ray datasets and models. Including pre-trained models.
 
 ### Applications
+  * [Minbao Feeding Tools](https://github.com/yy520-xx/minbao-feeding-tools) - Open-source patient-facing tool for managing infant cow's milk protein allergy (CMPA) feeding: ingredient label analyzer, food safety guide, feeding diary, and growth tracking.
+
   * [Intervention Engine](https://github.com/intervention-engine/ie) - Provides a web-application for data-driven team huddles.
   * [SMART Pediatric Growth Chart](https://github.com/smart-on-fhir/growth-chart-app) - Pediatric growth charts.
   * [Simple](https://github.com/simpledotorg/) - For clinicians to track patients with high blood pressure.
